@@ -74,28 +74,3 @@ print(round(125**(1/3)))  # Ao usarmos a função ROUND estaremos arredondando e
 # não havia sido arredondado.
 print(type(round(125**(1/3))))  # Round retornou inteiro.
 
-
-
-
-
-#
-#
-#
-#
-# """"Cálculo numérico"""
-#
-# b=9
-#
-# print(a+b) # 3+9 retorna 12
-#
-# print(a**2+2*a*b+b**2)
-#
-# print((a+b)**2)
-#
-# #valor numérico da fórmula resolutiva de 2 grau ou fórmula de baskara
-#
-# a=2
-# b=-3
-# c=1
-#
-# print()
