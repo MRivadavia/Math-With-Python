@@ -1,4 +1,4 @@
-""""Programa que trabalha com frações"""
+""""Programa que trabalha com frações I """
 
 # Para usar frações em Python é necessário importarmos um módulo, o módulo FRACTIONS.
 # Módulo, simplificadamente, é um programa que alguém escreveu pra ser usado em outro programa Python.
