@@ -1,5 +1,5 @@
 
-""""Programa que fará uso dos laços de repetiçòes e desvios condicionais."""
+""""Programa que fará uso dos laços de repetições e desvios condicionais."""
 
 
 # Desejamos nesta aula calcular se um número inteiro qualquer é fator de outro.
@@ -44,7 +44,7 @@ if x == y:  # A declaração x igual y é testada pela condicional IF.
     print('O valor x =', x, 'é igual ao valor y =', y)  # É executada esta impressão caso  x for igual a y.
 else:  # bloco de instrução à condição de desvio Else será executada quando x não for igual a y.
     print('O valor x =', x, 'é diferente do valor y =', y)  # É executada esta instrução caso a condição x não
-for igual a y.
+# for igual a y.
 
 # Realizamos acima algumas explicações iniciais de como usar o Loop For e os Desvios If-Else.
 
